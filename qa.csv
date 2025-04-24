@@ -1,0 +1,177 @@
+,context,question,answer,source_doc
+0,"Authors: • M. Sundarramurthi • Adithya Balasubramanyam • Ashok Kumar Patil
+
+Abstract: Over the years, navigation has become an essential part of our daily lives. The emergence of Augmented Reality (AR) technology has created new opportunities for improving the navigation experience. The current work focuses on the development of NavPES, a mobile navigation application designed to provide users with seamless and efficient navigation throughout the PES University campus, both indoors and outdoors. The application makes use of cutting-edge tools such as the ARway software development kit (SDK), Vuforia SDK, and Azure Spatial Anchors to enable accurate indoor localization and navigation using AR. NavPES features an interactive and self-explanatory Graphical User Interface (GUI) for users, allowing them to navigate around the campus with ease. The use of AR technology in navigation applications like NavPES contributes to the development of smart digital campuses.
+
+PESU PESU Center for T
+
+Internet of Things30
+
+XAI for Securing Cyber Physical Systems
+
+Conference published in: 2023 Third International Conference on Secure Cyber Computing and Communication (ICSCCC), Jalandhar, India, 2023, pp. 671- 677, doi: 10.1109/ICSCCC58608.2023.10176832 Indexing: Scopus
+
+Authors: • Amar Prakash Patil • Joshitha Devarakonda • Manognya Singuru • Smriti Tilak • Shruti Jadon","Who are the authors of the paper ""XAI for Securing Cyber Physical Systems""?
+","Amar Prakash Patil, Joshitha Devarakonda, Manognya Singuru, Smriti Tilak, and Shruti Jadon",C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2023.pdf
+1,". The application is made generic by making the AR system be able to provide an AR interface to any application that can run on a regular PC. The accessibility of the AR system is improved by making it compatible to work on any normal smartphone with a regular camera. There is no necessity for a depth- sensing camera, which is a requirement of popular AR toolkits like","What is the requirement for the AR system to work on a normal smartphone?
+",The AR system does not require a depth-sensing camera to work on a normal smartphone.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2023.pdf
+2,"9
+
+Homomorphic Encryption Approach for String Concatenation
+
+Conference published in: 2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA), Goa, India, 2022, pp. 267-272 doi: 10.1109/ICCCMLA56841.2022.9989264 Indexing: Scopus
+
+Authors: • S Rajashree • B Vineetha • Ami B Mehta • Prasad B Honnavalli
+
+Abstract: In a modern environment, a large amount of data is generated from various sources like healthcare, government, banking, and other different sectors. The traditional method for storing information is becoming challenging to handle big data. The solution to storing big data is to store data on third-party service providers. Data protection is the primary concern for storing and accessing data due to the emerging rate of data breaches and adversaries in personal data storage. Intruders manage to access sensitive data despite many efforts to protect sensitive data. Homomorphic encryption is a data protection approach in the cryptographic domain that can perform computations
+
+on cipher data without decrypting it. The computation outcome is encrypted; the output will be the same when decrypted as if the operations had been performed on the original plaintext data. This encryption method for privacy-preserving outsourced storage and computation permits the data to be encrypted and outsourced to cloud environments for further processing. This paper proposes string concatenation on encrypted data using the Advanced Encryption Standard algorithm with cipher blockchain mode of operation.
+
+10
+
+CoreMedi: Secure Medical Records Sharing Using Blockchain Technology
+
+Conference published in: 2022 International Conference on Data Analytics for Business and Industry (ICDABI), Sakhir, Bahrain, 2022, pp. 33-37 doi: 10.1109/ICDABI56818.2022.10041522 Indexing: Scopus
+
+Authors: • Abhiram Puranik • Akanksha V Akkihal • Prasad B. Honnavalli • Sivaraman Eswaran","What is the encryption method used for privacy-preserving outsourced storage and computation in the context?
+",The encryption method used for privacy-preserving outsourced storage and computation in the context is homomorphic encryption.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2023.pdf
+3,"5
+
+A threshold-based, real-time analysis in early detection of endpoint anomalies using SIEM expertise
+
+Journal published in: Elsevier - Network Security, Vol. 2021, No.4, pp. 7-16, April 2021 Indexing: Scopus
+
+Authors:
+
+Sivaraman Eswaran Aruna Srinivasan Prasad Honnavalli
+
+Abstract: IT functions in organisations produce enormous quantities of data, logs and events. In the current IT world, handling a large amount of data is a challenging task and it is the responsibility of network administrators to transmit and store the data securely. If any data is disclosed or tampered with by an attacker, either locally or remotely, then the impact can be very high. To overcome this, firewall and intrusion detection system (IDS) and intrusion prevention system (IPS) solutions are used to verify all packets on the network.
+
+6
+
+Security Model for Internet of Things Based on Blockchain
+
+Conference published in: Innovative Data Communication Technologies and Application, pp. 543-557. Springer, Singapore, 2021 Indexing: Scopus
+
+Authors:
+
+J. T. Kruthik K. Ramakrishnan R. Sunitha B. Prasad Honnavalli","What is the responsibility of network administrators in handling large amounts of data?
+",The responsibility of network administrators in handling large amounts of data is to transmit and store the data securely.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2021.pdf
+4,"Differential Privacy in NoSQL Systems
+
+Conference published in: International Conference on Data Science, Computation and Security (IDSCS-2021), Department of Data Science, CHRIST (Deemed to be University), Lavasa, Pune, India. Indexing: Scopus
+
+Authors:
+
+Navraj Singh Abhishek Shyam Samatha R. Swamy Prasad B. Honnavalli
+
+Abstract: With the advent of the volume, velocity and variety of data in today’s day and age, big data has become the norm in many places. Data at rest, the same data that is fed to the analyst of a company is at most times, not encrypted and depends on the fact that a person can be trusted by the company. Our contribution is implementing differential privacy in a NoSQL database while combating the few drawbacks in differential privacy with techniques such as cluffering (clustering and shuffling) and k-Anonymization. We to end implementation in a NoSQL database, MongoDB to promote privacy by perturbation using differential privacy which has been shown to be one of the best ways to do so. A generic system gets formed where local differential privacy is enforced before sending the sensitive database for analysis and enforcing differential privacy concepts on aggregate queries ensuring that no particular individual gets exposed in the process. We further provide the basis for implementing other aggregates apart from the ones we implemented and for complex queries that are not yet supported while the core concepts remain the same.
+
+implement an end
+
+Estimation of Engagement of Learners in MOOCs using Smart Visual Processing
+
+Conference published in: International Conference on Innovative Computing & Communication (ICICC) 2021
+
+Authors:
+
+Ashish H Sanjana Hukkeri Ritu V. Malage
+
+Samatha R. Swamy Prasad B Honnavali","Which database did the authors implement differential privacy in?
+",The authors implemented differential privacy in the NoSQL database MongoDB.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2022.pdf
+5,"Authors:
+
+Gurusankar Kasivinayagam Romaanchan Skanda Aditya G. Burli Shruti Jadon Reetinder Sidhu
+
+Abstract: Data is a buzzword in any field of study. Nearly 2.5 Quintilian bytes of data are being generated daily, keeping a factor of storing this huge amount of data aside, there is a vast spread of fake news throughout from various sources. Fake news refers to the misleading information written to gain tremendous attention. Fake news brings in pessimistic feelings among individual customers, the ecosystem as well as people’s trust. It is quite hard and impossible to monitor and eliminate these kinds of news articles and releases, resulting in a greater burden on manpower. On grounds of this huge amount of news getting spread brings in an opportunity as well as a challenge for it to be classified as legit or not. Also, one would be curious to know whether a particular news received is worth it or not. There are also inventions and improvements in methods to tackle and build a decision border between unauthorized and authorized news. The related works focused on collecting and classifying news stories that are disseminated from all sources. To achieve this, various features are explored, and their impact is studied. This paper proposes a solution to detect fake news via an user-friendly approach to an extent of justifiable accuracy. The research is diverse for it works for three different dialects, English, Kannada and Hindi.
+
+An Android-Based Multifactor Authentication for Securing Passive Keyless Access System
+
+Conference published in: 2022 IEEE 7th International conference for Convergence in Technology (I2CT) Indexing: Scopus
+
+Authors:
+
+Aditya D Naik Ritvik Vibhu Udbhav P Saboji
+
+Vanisha R. M Nagasundari S Prasad B Honnavalli","Which conference was the paper ""An Android-Based Multifactor Authentication for Securing Passive Keyless Access System"" published in?
+","The paper ""An Android-Based Multifactor Authentication for Securing Passive Keyless Access System"" was published in the 2022 IEEE 7th International conference for Convergence in Technology (I2CT).",C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2022.pdf
+6,"2018 32. IronSense: Towards the Identification of Fake User-Profiles on Twitter Using Machine Learning
+
+Abhishek Narayanan, Anmol Garg, Isha Arora, Tulika Sureka, Manjula Sridhar, Prasad H B
+
+36
+
+Year
+
+2021
+
+2 Journal Publications
+
+6 Conference Publications
+
+1
+
+Data Privacy and User Consent: An Experimental Study on Various Smartphones
+
+Journal published in: International Journal for Digital Society Indexing: Impact Factor (IF): 3.768 Infonomics Society’s Indexing Citation Board (ICB)
+
+Authors:
+
+Ayushi S Mehta Vibha Dhiraj Puthran Prasad Honnavalli
+
+Abstract: A user’s consent is required for sensitive information to be shared with third parties. Data exfiltration is one of the main end goals of cyber-attacks and with the dominance of Android in the smartphone market, many Android users are susceptible to this data theft. Most of these Android users are unaware of the theft of their personal data to an unauthorised entity. The entities responsible for this leakage can vary from malicious hackers and mobile network operators to the phone company themselves. Our paper aims to detect such data breach of privacy using two methods. First by installing a packet analyser computer program (tcpdump) directly on the phone and second by using a USB Adapter on nearby phones. Results show that data is being exfiltrated from the phones we tested on and phones from one country, in particular, are more susceptible to data exfiltration.
+
+2
+
+Ensure the Validity of Forensic Evidence by using a Hash Function
+
+Journal published in: Inventive Communication and Computational Technologies. Lecture Notes in Networks and Systems, vol 145. Springer, Singapore Indexing: Scopus
+
+Authors:
+
+K. Aishwarya Lakshmi Prasad B. Honnavali S. Rajashree","What is the main end goal of cyber-attacks?
+",The main end goal of cyber-attacks is data exfiltration.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2021.pdf
+7,"Authors: • Arushi Bohra • Laksh Sethi • Karthik Nag • Preet Kanwal
+
+Abstract: Emotion detection from text is a field of research that involves the recognition of emotions such as anger, disgust, fear, happiness, sadness, and surprise from text. The conversion of text to audio with enunciation based on the detected emotions from text is a contemporary field of study that has short explorations done. The paper presents a methodology and design to classify the emotional affinity of sentences in the narrative domain of children’s fairytales using a transformer-based natural language processing technique called the BERT model for subsequent usage in the appropriate expressive rendering of text to speech synthesis using statistical models. The paper also presents a methodology to implement a question-answering system to resolve queries regarding the story by producing an audio clip containing the most appropriate answer extracted through a natural language processing technique called the ALBERT model. The model developed can detect emotions from text with an accuracy of 83%, convert text to audio with emotion-based enunciation with an accuracy of 90%, and the question-answering system produces an accuracy of 80%. The future work will focus on increasing the features taken into consideration for manipulating neutral audio. Detection of sarcasm and handling of complex sentences having multiple emotions will also be included.
+
+18
+
+A Compression Framework for Reducing Cost of Communication in a Federated Learning setup on a Non-IID Dataset
+
+Conference published in: 2022 3rd International Conference for Emerging Technology (INCET), Belgaum, India, 2022, pp. 1-6 doi: 10.1109/INCET54531.2022.9824614 Indexing: Scopus
+
+Authors: • Ishan Rai • Varun Kadam • Harsha Adimulam • K. Sreesh Reddy • Preet Kanwal","What is the accuracy of the model developed for emotion detection from text?
+",The model developed for emotion detection from text has an accuracy of 83%.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2023.pdf
+8,"Authors:
+
+V. Harikrishnan H. S. Sanket K. S. Sahazeer
+
+Siddarth Vinay Prasad B. Honnavalli
+
+Abstract: A DDoS attack or distributed denial of service attack is an attempt to make servers unavailable by concentrating the target server with a flood of network traffic. DDoS attacks can cause huge financial loss to businesses. There are different types of DDoS attacks such as SYN flood, Smurf attack, Ping of Death, and Buffer Overflow. Implementing the firewall and honeypot in the network can help us mitigate the effect of the attacks and analyze the attacker’s identity and signature. Our paper proposes an architecture which uses a packet generator, a firewall, and a honeypot to mitigate the DDoS attacks when it is happening at the target’s endpoint. We demonstrate and discuss these attacks as well as the methods used to block malicious packets. We have simulated multiple attack scenarios and mitigated them with the help of various firewall rules. These blocked packets are later used for analysis in the honeypot.
+
+Four-Layer Authentication with Honeypot and Cloud Data Encryption
+
+Conference published in: ERCICA 2020: International Conference on Emerging Research in Computing, Information, Communication and Applications, Nitte Meenakshi Institute of Technology, Bengaluru, India Indexing: Scopus
+
+Authors:
+
+Sanjay Chari Harshith Umesh Athul Sandosh
+
+S. Suganthi Prasad Honnavalli","Who are the authors of the paper?
+","The authors of the paper are V. Harikrishnan, H. S. Sanket, K. S. Sahazeer, Siddarth Vinay Prasad, and B. Honnavalli.",C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2022.pdf
+9,"Authors:
+
+Archana Chaitra H P Khushi Sivaraman Prasad Honnavalli
+
+Abstract: With the increase in the internet traffic worldwide, it has been observed that there is a major spike in the influx of network traffic into any system over the years. The internet traffic and the number of attempts at malicious access to any organization have increased over the years. The attacker can take advantage of this and over flood the organization with dummy traffic and make the systems unresponsive. The current existing models of Network Intrusion Detection System (NIDS) have a good prediction rate but somehow have high False Positive Rate (FPR). We propose a Deep Learning (DL) model to reduce the FPR which offers a scalable solution by deploying the model on cloud to increase the responsiveness of the NIDS during high loads, hence increasing the availability. The model which is running on docker containers on the cloud instance can be accessed using REST APIs as it is deployed as microservice. The experimental results showed that Deep Neural Networks (DNN) with five hidden layers achieved the best accuracy of 95.02% and a least accuracy of 88.75% by Long Short-Term Memory (LSTM) with two layers. In traditional ML algorithms, Random Forest approach have achieved 86% accuracy.
+
+Generation of True Random Numbers using Entropy Sources Present within Portable Computers
+
+Conference published in: 2021 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT) Indexing: Scopus
+
+Authors:
+
+Rahul M Koushik Aravind Perichiappan Hari Om Abhishek Banerji Sivaraman Eswaran Prasad Honnavalli","What is the accuracy of the Random Forest approach in traditional ML algorithms?
+",The accuracy of the Random Forest approach in traditional ML algorithms is 86%.,C:\Users\Aiml cse\Desktop\ISFCR_Codes\pdfs\Research_Vol_2022.pdf
